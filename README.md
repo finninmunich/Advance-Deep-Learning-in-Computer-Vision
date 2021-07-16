@@ -1,6 +1,6 @@
 ## Advancecd Deep Learning for Computer Vision
 
-Project for ADL4CV: Shape Completion with Meso-Skeleton Learning by Dongyue Lu and Zhisheng Zheng, supervised by Yinyu Nie.
+Project for ADL4CV: Shape Completion with Meso-Skeleton Learning by Zhisheng Zheng and Dongyue Lu, supervised by Yinyu Nie.
 
 This code is tested under Python 3.6.3, PyTorch 1.2.0 on Ubuntu 18.04 and 20.04.
 
